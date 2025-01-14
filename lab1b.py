@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-name = 'Thomas'
-
-print(name)
-
-print('I have a friend name ' + name)
 
 
 
+name = 'Isaac'
+
+print('How old are you '  + name + " ?")
